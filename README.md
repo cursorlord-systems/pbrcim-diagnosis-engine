@@ -23,6 +23,7 @@ This log indicates the system was attempting to build or compile the application
 📸 See screenshots below for full UI context.
 
 🖥️ Interface Preview
+![PBRCIM Diagnosis Engine UI](screenshots/diagnosis-engine-ui.png)
 The public engine is delivered via a clean, browser-based interface designed for fast diagnosis and clarity of output.
 Screenshots include:
 •	Raw log input
