@@ -1,7 +1,7 @@
 > A production-grade diagnostic intelligence system built around the PBRCIM model for high-signal failure analysis.
 
 🧠 PBRCIM Diagnosis Engine (Public Interface)
-Intelligent System Log Diagnosis & Failure Pattern Isolation
+Intelligent System Log Diagnosis & Failure Pattern Isolation.
 The PBRCIM Diagnosis Engine is a system-level diagnostic tool designed to analyze real-world execution logs and surface actionable, high-signal insights across build pipelines, runtime environments, CI/CD workflows, and application failures.
 This repository documents the architecture, behavior, and outputs of the public-facing Diagnosis Engine - not its internal rule engine.
 
